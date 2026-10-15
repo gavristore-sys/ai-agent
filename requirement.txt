@@ -1,4 +1,6 @@
-streamlit>=1.50
+streamlit
+anthropic
+//streamlit>=1.50
 gspread>=6.0
 pandas
 openpyxl
